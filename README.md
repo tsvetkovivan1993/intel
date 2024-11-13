@@ -1,4 +1,4 @@
 # intel BMC reset
 
- ./syscfg /rfs
- ./syscfg /rbmc
+#  ./syscfg /rfs
+#  ./syscfg /rbmc
